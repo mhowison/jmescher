@@ -1,6 +1,6 @@
-```diff
-- Note: This is a copy of the subversion repository previously hosted at: https://code.google.com/p/jmescher/
-```
+***
+**This is a copy of the subversion repository previously hosted at:** https://code.google.com/p/jmescher/
+***
 
 # jmEscher
 
